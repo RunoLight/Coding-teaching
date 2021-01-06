@@ -1,0 +1,13 @@
+C:\Users\vkuznetsov\Desktop\Coding-teaching\C#\1\ConsoleApp1\bin\Debug\netcoreapp3.1\Lab1.exe
+C:\Users\vkuznetsov\Desktop\Coding-teaching\C#\1\ConsoleApp1\bin\Debug\netcoreapp3.1\Lab1.deps.json
+C:\Users\vkuznetsov\Desktop\Coding-teaching\C#\1\ConsoleApp1\bin\Debug\netcoreapp3.1\Lab1.runtimeconfig.json
+C:\Users\vkuznetsov\Desktop\Coding-teaching\C#\1\ConsoleApp1\bin\Debug\netcoreapp3.1\Lab1.runtimeconfig.dev.json
+C:\Users\vkuznetsov\Desktop\Coding-teaching\C#\1\ConsoleApp1\bin\Debug\netcoreapp3.1\Lab1.dll
+C:\Users\vkuznetsov\Desktop\Coding-teaching\C#\1\ConsoleApp1\bin\Debug\netcoreapp3.1\Lab1.pdb
+C:\Users\vkuznetsov\Desktop\Coding-teaching\C#\1\ConsoleApp1\obj\Debug\netcoreapp3.1\Lab1.csprojAssemblyReference.cache
+C:\Users\vkuznetsov\Desktop\Coding-teaching\C#\1\ConsoleApp1\obj\Debug\netcoreapp3.1\Lab1.AssemblyInfoInputs.cache
+C:\Users\vkuznetsov\Desktop\Coding-teaching\C#\1\ConsoleApp1\obj\Debug\netcoreapp3.1\Lab1.AssemblyInfo.cs
+C:\Users\vkuznetsov\Desktop\Coding-teaching\C#\1\ConsoleApp1\obj\Debug\netcoreapp3.1\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\vkuznetsov\Desktop\Coding-teaching\C#\1\ConsoleApp1\obj\Debug\netcoreapp3.1\Lab1.dll
+C:\Users\vkuznetsov\Desktop\Coding-teaching\C#\1\ConsoleApp1\obj\Debug\netcoreapp3.1\Lab1.pdb
+C:\Users\vkuznetsov\Desktop\Coding-teaching\C#\1\ConsoleApp1\obj\Debug\netcoreapp3.1\Lab1.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+﻿C:\Programs\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (UnitTest1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  UnitTest1.cpp
+C:\Users\vkuznetsov\Desktop\Coding-teaching\C++\1\UnitTest1\UnitTest1.cpp(53,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vkuznetsov\Desktop\Coding-teaching\C++\1\UnitTest1\UnitTest1.cpp(62,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  UnitTest1.vcxproj -> C:\Users\vkuznetsov\Desktop\Coding-teaching\C++\1\x64\Debug\Lab1Test.dll
